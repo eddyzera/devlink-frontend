@@ -28,6 +28,11 @@ export default {
       lineHeight: {
         'line-md': 'var(--line-height)',
       },
+
+      maxWidth: {
+        'max-w-482': 'var(--max-w-sm)',
+        'max-w-546': 'var(--max-w-md)',
+      },
     },
   },
   plugins: [],

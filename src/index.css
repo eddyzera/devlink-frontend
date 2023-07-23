@@ -26,5 +26,12 @@
     --text-md: 16px;
     --text-lg: 32px;
     --line-height: 150%;
+
+    --max-w-sm: 482px;
+    --max-w-md: 546px;
+  }
+
+  body {
+    background-color: var(--gray-100);
   }
 }
